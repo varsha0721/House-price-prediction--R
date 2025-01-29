@@ -29,9 +29,6 @@ The objective of this project is to develop a regression model to predict housin
 ## Results
 - The regression model provided insights into how lot area and basement size influence housing prices.
 - Predictions demonstrated a reasonable approximation of real-world housing prices.
-- Future improvements may include:
-  - Expanding the dataset with additional features like neighborhood, year built, and number of bedrooms.
-  - Using advanced regression techniques like polynomial regression or random forest regression.
   
 ## How to Run
 1. Load the dataset in R:
